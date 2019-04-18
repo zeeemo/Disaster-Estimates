@@ -1,3 +1,12 @@
-# Disaster-Estimates
+# Using Zillow to Estimate Damages from Natural Disasters
+### Prediction Focused Project for General Assembly's Data Science Immersive
+#### By:  José Cacho (), 
+####      Chuck Dye (), 
+####      Zach Morris (),
+####      Julian Oquendo ()
 
-Editing the read-me as a test
+## Objectives
+## Data Dictionary
+## Product
+## Conclusions
+## Links
