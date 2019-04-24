@@ -1,12 +1,6 @@
 # Using Zillow to Estimate Damages from Natural Disasters
 ## Project for General Assembly's Data Science Immersive
-José Cacho  
-
-[Chuck Dye](github.com/GCdye)
-
-[Zach Morris](github.com/zeeemo)
-
-Julian Oquendo
+José Cacho, [Chuck Dye]((https://github.com/GCdye), [Zach Morris](https://github.com/zeeemo), Julian Oquendo
 
 ## Objectives
 Develop a formula, using existing pricing databases, to calculate property damage caused by natural phenomena within a specific zip code or area. 
