@@ -2,9 +2,9 @@
 ## Project for General Assembly's Data Science Immersive
 José Cacho  
 
-Chuck Dye github.com/GCdye
+[Chuck Dye](github.com/GCdye)
 
-Zach Morris github.com/zeeemo
+[Zach Morris](github.com/zeeemo)
 
 Julian Oquendo
 
