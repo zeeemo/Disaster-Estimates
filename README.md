@@ -13,8 +13,9 @@ As described in the attached notebook, the project operates with little and fair
 - Finally, the function returns the expected value of the areas affected by the natural disaster. 
 - Code build and maintenance by Chuck Dye, as of April 24, 2019. 
 
-## Product
-asl;dfkasodfjas; App in dev adsfkl;jadsflfdksa;
+## Resources Produced
+- Map that highlights the range of damage via zipcode. 
+- Produced by José Cacho, using mapbox.com
 
 ## Conclusions
 Although the product works, the source where we are receiving the information for zip code pricing structures last updated its unit pricing in 2012. We can commit additional, and true to life information with additional resources, as receiving API and individual values from sites like Zillow or housing sets were limited. 
@@ -22,4 +23,4 @@ Although the product works, the source where we are receiving the information fo
 ## Links and Sources
 - Templates from Corey Schafer's github page and code were used in building web apps. https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
 - The 'uszipcode' python library from DC-based programmer Sanhe Hu: https://pypi.org/project/uszipcode/ served as the project's main library to determine the code. 
-- 
+- mapbox.com for zipcode map building. 
